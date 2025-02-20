@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "1050469984818",
+    "firebase_url": "https://map-database-c3f29-default-rtdb.firebaseio.com",
+    "project_id": "map-database-c3f29",
+    "storage_bucket": "map-database-c3f29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050469984818:ios:5fbf770695aac44aebaa2b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.build"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyC719hUlFg-DGNDmCZWdppFhVlBIPc14NI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

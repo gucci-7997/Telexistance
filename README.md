@@ -24,7 +24,3 @@
   * Firebase-admin 12.0.0
   * Firebase-function 6.1.0
   * Firebase-functions-test: 3.3.0
-  
-* 距離測定(image_distance)
-  * Python 3.12.7
-  * OpenCV 4.10.0
